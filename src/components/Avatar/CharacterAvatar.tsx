@@ -34,7 +34,7 @@ const CharacterAvatar: FC<CharacterAvatarProps> = ({
         </div>
         <div aria-hidden="true" className="character-avatar">
           <div className="character-avatar__image">
-            {Boolean(characterImageName) && <img alt="" src={`/static/images/avatar/square/${characterImageName}`} />}
+            {Boolean(characterImageName) && <img alt="" src={`/public/images/avatars/${characterImageName}`} />}
             <Gauge
               className="character-avatar__experience"
               iconColor="transparent"

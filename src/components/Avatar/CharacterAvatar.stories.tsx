@@ -20,12 +20,13 @@ const meta: Meta<typeof CharacterAvatar> = {
     isVip: true,
     syndicateTag: 'TAU',
   },
-  // args: {
-  //   image: 'https://placehold.co/300x300',
-  //   isGeneticallyBound: false,
-  //   isSoldOut: false,
+  argTypes: {
+    characterImageName: {
+      control: 'select',
+      options: ['Portia Drax', 'Sho Sien', 'Sophie Loiseau', 'Theadora Ripley', 'Yazema', 'Yoloada Harris'],
+    },
+  },
 
-  // },
   // argTypes: {
   //   name: { control: 'select', options: ['Ear Piercer', 'Poly Vinyl Coveralls', 'Strong Military Stim V23023'] },
   //   rarity: { sort: 'requiredFirst', control: 'select', options: ['common', 'epic', 'rare', 'uncommon'] },
@@ -51,9 +52,19 @@ const meta: Meta<typeof CharacterAvatar> = {
 export default meta;
 type Story = StoryObj<typeof CharacterAvatar>;
 
+const updateImage = (name: string) => {
+  return `${name.replace(/ /g, '-').toLowerCase()}.png`;
+};
+
 export const AvatarExample: Story = {
+  render: (args) => {
+    const { characterImageName } = args;
+    const updatedImage = updateImage(characterImageName as string);
+    return <CharacterAvatar {...args} characterImageName={updatedImage} />;
+  },
+
   args: {
-    characterImageName: 'square/character-1.png',
+    characterImageName: 'Portia Drax',
     characterProgress: { experience: '1000', level: 1 },
     characterName: 'Jamima',
     isVip: true,
