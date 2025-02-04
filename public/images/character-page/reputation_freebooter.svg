@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 112 112" enable-background="new 0 0 112 112" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="56" x2="112" y2="56">
+	<stop  offset="0" style="stop-color:#161515"/>
+	<stop  offset="0.3785" style="stop-color:#191615"/>
+	<stop  offset="0.6757" style="stop-color:#231716"/>
+	<stop  offset="0.9446" style="stop-color:#341A17"/>
+	<stop  offset="1" style="stop-color:#381B17"/>
+</linearGradient>
+<circle fill="url(#SVGID_1_)" cx="56" cy="56" r="56"/>
+<g>
+	<g>
+		<polygon fill="#E8812D" points="17.1,58 34.3,27.3 42.8,28.7 22,65.6 		"/>
+	</g>
+	<g>
+		<polygon fill="#CF532C" points="92.4,65.7 89,71 64.8,27.8 70.1,27 63.4,15.5 56,15.5 56,15.5 48.6,15.5 41.9,27 47.2,27.8 23,71 
+			19.6,65.7 14,75.3 23.7,89.4 40.9,89.4 21.5,73.2 40.7,73.2 46.6,77.8 56,85.3 56,85.3 56.6,85.8 71.8,73.2 91.8,73.2 72.2,89.4 
+			88.3,89.4 98,75.3 		"/>
+	</g>
+	<g>
+		<polygon fill="#E8812D" points="94.9,58 77.7,27.3 69.2,28.7 90,65.6 		"/>
+	</g>
+	<path fill="#1F1F1F" d="M46.9,67.6c1.3,1,1.5,3.2,1.9,4.8c0,0.1,0.1,0.6,0.1,0.7c0.2,1.3,1.1,2.4,2.4,2.4h9.9
+		c1.4,0,2.3-1.1,2.5-2.4c0-0.1,0.1-0.6,0.1-0.7c0.5-1.6-0.1-3.4,1.2-4.4c2.4-1.6,6.6-4.9,6.7-7.5c0,0-1.5-17.4-15.3-17.8
+		c-8.7-0.3-14.3,6.9-16.1,16.2c0,0,0,0,0,0.1C39.6,62.8,44.5,65.8,46.9,67.6z"/>
+	<g>
+		<path fill="#CF532C" d="M54,62.5c-0.3-0.5-0.8-0.6-1.3-0.3l-10.5,6.1c0.5,0.4,1,0.9,1.2,1.5l10.3-5.9C54.1,63.5,54.2,62.9,54,62.5
+			z"/>
+	</g>
+	<g>
+		<path fill="#CF532C" d="M70.6,68.6l-11.2-6.5c-0.5-0.3-1-0.1-1.3,0.3c-0.3,0.5-0.1,1,0.3,1.3l11.3,6.5
+			C69.8,69.6,70.1,69.1,70.6,68.6z"/>
+	</g>
+	<path fill="#CF532C" d="M56.9,63.8l0.8,3.1c0,0.7-0.6,1.3-1.3,1.3h-0.9c-0.7,0-1.3-0.6-1.3-1.3l0.8-3.1"/>
+	<g>
+		<g>
+			<path fill="#CF532C" d="M43.4,60.4c-1.7-7.2,9.4-6.6,10.3,0C50.3,60.4,46.9,60.4,43.4,60.4z"/>
+		</g>
+		<g>
+			<path fill="#CF532C" d="M68.6,60.4c1.7-7.2-9.4-6.6-10.3,0C61.7,60.4,65.1,60.4,68.6,60.4z"/>
+		</g>
+	</g>
+	<line fill="none" stroke="#CF532C" stroke-miterlimit="10" x1="52.8" y1="75.5" x2="52.8" y2="71.8"/>
+	<line fill="none" stroke="#CF532C" stroke-miterlimit="10" x1="56.6" y1="75.5" x2="56.6" y2="71.8"/>
+	<line fill="none" stroke="#CF532C" stroke-miterlimit="10" x1="60.4" y1="75.5" x2="60.4" y2="71.8"/>
+	<g>
+		<polygon fill="#E8812D" points="85.6,75.4 72.6,75.4 56.7,88.6 40,75.4 27.6,75.4 53.1,96.5 60,96.5 		"/>
+	</g>
+</g>
+</svg>
